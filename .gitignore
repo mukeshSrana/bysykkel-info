@@ -1,9 +1,11 @@
 target
 .idea/*
+.idea
 !.idea/runConfigurations
 *.iml
 .classpath
 .settings
 .project
 logs
+*.log
 archive
