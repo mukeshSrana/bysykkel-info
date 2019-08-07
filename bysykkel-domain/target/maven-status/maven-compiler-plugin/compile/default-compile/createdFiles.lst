@@ -1,9 +1,0 @@
-no/oslo/bysykkel/status/klient/SanntidKlient.class
-no/oslo/bysykkel/status/klient/ResponseFraStasjonInformasjon.class
-no/oslo/bysykkel/status/klient/ResponseFraStasjonStatus.class
-no/oslo/bysykkel/status/mapper/StasjonsinformasjonMapper.class
-no/oslo/bysykkel/status/StasjonStatus.class
-no/oslo/bysykkel/status/klient/RemoteSanntidKlient.class
-no/oslo/bysykkel/status/StasjonInformasjonData.class
-no/oslo/bysykkel/status/StasjonInformasjon.class
-no/oslo/bysykkel/status/StasjonStatusData.class
